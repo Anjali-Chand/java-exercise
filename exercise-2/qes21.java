@@ -12,5 +12,5 @@ public class qes21 {
       System.out.println();
       System.out.println("sum of all integers between 100 and 200 which are divisible by 9 is "+sum);
                     
-}
+  }
 }
